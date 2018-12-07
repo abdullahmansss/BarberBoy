@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1071954914680",
+    "firebase_url": "https://barber-boy.firebaseio.com",
+    "project_id": "barber-boy",
+    "storage_bucket": "barber-boy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071954914680:android:90bc3553ae958c21",
+        "android_client_info": {
+          "package_name": "mans.abdullah.abdullah_mansour.barberboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071954914680-ddonvf0220rdefd0h4nfvq35079dna5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-06GHHgEfWr8eRgMSX6UP6DcXpMFjeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
